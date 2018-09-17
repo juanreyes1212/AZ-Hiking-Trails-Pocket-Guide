@@ -8,6 +8,9 @@ TODO: none = all reqs met.
 ```
 yarn install
 yarn start
+
+//key to press after bundler packages project launch iOS simulator
+i
 ```
 
 Runs your app in development mode.
