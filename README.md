@@ -1,21 +1,22 @@
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
-ad-rn-cal = az trails list
+ad-rn-chal = az trails list
+
 ```
-TODO: none = all reqs met.
+TODO: n/a = all reqs met.
 ```
+
 ### `Getting Started`
 ```
+//install npm modules/project dependencies
 yarn install
+
+//run app in development mode using Expo
 yarn start
 
-//key to press after bundler packages project launch iOS simulator
+//key to launch launch iOS simulator after bundler packages project 
 i
 ```
-
-Runs your app in development mode.
-
-Opens project using Expo.
 
 Sometimes you may need to reset or clear the React Native packager's cache. To do so, you can pass the `--reset-cache` flag to the start script:
 
@@ -23,5 +24,4 @@ Sometimes you may need to reset or clear the React Native packager's cache. To d
 npm start --reset-cache
 # or
 yarn start --reset-cache
-#and then once the packager starts up press i to open up ios simulator
 ```
