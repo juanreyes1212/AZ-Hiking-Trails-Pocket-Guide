@@ -18,7 +18,7 @@ export default class TrailList extends Component {
                 ;
                 this.setState({
                     isLoading: false,
-                    dataSource: responseJson.documents,
+                    dataSource: Array.from(responseJson.documents).sort((a, b) => a.fields.name.stringValue.localeCompare(b.fields.name.stringValue)),
                 });
             })
             .catch((error) => {
