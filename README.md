@@ -4,9 +4,11 @@ ad-rn-cal = az trails list
 ```
 TODO: trail list alphabetizing, all other reqs met.
 ```
-
-
-### `yarn start`
+### `Getting Started`
+```
+yarn install
+yarn start
+```
 
 Runs your app in development mode.
 
