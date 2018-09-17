@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React Native App](https://github.com/
 
 ad-rn-cal = az trails list
 ```
-TODO: trail list alphabetizing, all other reqs met.
+TODO: none = all reqs met.
 ```
 ### `Getting Started`
 ```
