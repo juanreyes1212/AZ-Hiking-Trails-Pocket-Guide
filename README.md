@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
-ad-rn-chal = Arizona Trails List
+Arizona Trails Pocket List
 
 ```
 TODO: n/a = all reqs met.
