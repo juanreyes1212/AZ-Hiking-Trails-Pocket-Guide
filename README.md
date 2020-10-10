@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Arizona Hiking Trails Pocket List
-- Mobile app for looking up hiking trails in AZ with API-sourced trail overviews.
+- Mobile app for looking up hiking trails in AZ with API-sourced trail summaries.
 
 ```
 TODO: n/a = all reqs met.
